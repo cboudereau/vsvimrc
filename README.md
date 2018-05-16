@@ -2,9 +2,9 @@
 
 Visual studio vim runtime configuration.
 
-#Learning
+## Learning
 http://learnvimscriptthehardway.stevelosh.com/
 
-#Install
+## Install
 just copy the .vimrc into your $env:USERPROFILE path and restart visual studio.
 VS will display a message indicating that the vsvim has loaded to runtime configuration
