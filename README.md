@@ -17,3 +17,4 @@ https://github.com/justinmk/config/blob/master/.vsvimrc
 ### Create Case (Uc)
 
 ![Uc : Create Case](https://raw.githubusercontent.com/cboudereau/vsvimrc/master/gifs/Uc-Case.gif)
+![Un : Not yet implemented](https://raw.githubusercontent.com/cboudereau/vsvimrc/master/gifs/Un-NotYetImplemented.gif)
