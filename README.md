@@ -11,3 +11,9 @@ VS will display a message indicating that the vsvim has loaded to runtime config
 
 ## Sample
 https://github.com/justinmk/config/blob/master/.vsvimrc
+
+## Fsharp productivity commands
+
+### Create Case (Uc)
+
+![Uc : Create Case](https://github.com/cboudereau/vsvimrc/gifs/blob/master/Uc-Case.gif)
