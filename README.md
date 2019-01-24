@@ -27,7 +27,10 @@ U is for User command and the next letter the first letter of the action
 ![Up : Introduce Parameter](https://raw.githubusercontent.com/cboudereau/vsvimrc/master/gifs/Up-IntroduceParameter.gif)
 
 ### Execute in Interactive from Cursor from top to cursor / from cursor to end of file
+
 Ue : from top of file to cursor
+
 UE : from cursor end of file
-![Ue-UE : Execute in Interactive from Cursor from top to cursor - from cursor to end of file](https://raw.githubusercontent.com/cboudereau/vsvimrc/master/gifs/Ue-UE.gif)
+
+![Ue-UE : Execute in Interactive from Cursor from top to cursor, from cursor to end of file](https://raw.githubusercontent.com/cboudereau/vsvimrc/master/gifs/Ue-UE.gif)
 
