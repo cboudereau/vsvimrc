@@ -22,3 +22,6 @@ U is for User command and the next letter the first letter of the action
 
 ### Not Yet Implemented (Un)
 ![Un : Not yet implemented](https://raw.githubusercontent.com/cboudereau/vsvimrc/master/gifs/Un-NotYetImplemented.gif)
+
+### Introduce Parameter (Up)
+![Up : Introduce Parameter](https://raw.githubusercontent.com/cboudereau/vsvimrc/master/gifs/Up-IntroduceParameter.gif)
